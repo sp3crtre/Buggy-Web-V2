@@ -49,7 +49,7 @@ display_buggyweb_banner() {
     echo " :: ::::  ::::: ::   ::: ::::   ::: ::::     ::     :::: :: :::    :: ::::   :: ::::  "
     echo ":: : ::    : :  :    :: :: :    :: :: :      :       :: :  : :    : :: ::   :: : ::   "
     echo -e "${BW_RESET}"
-    echo -e "${BW_GRAY}  Author: Kaizer Andri Baynosa | SPECTRE ]"
+    echo -e "${BW_GRAY}  Author: Kurt Zamora | SPECTRE ]"
     echo -e "${BW_RESET}"
 }
 
