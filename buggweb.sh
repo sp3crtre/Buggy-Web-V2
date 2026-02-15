@@ -2,7 +2,7 @@
 
 # ============================================================================
 # BuggyWeb Pentesting Environment Manager (BW-PEM)
-# Author: Kaizer Andri Baynosa | Spectre
+# Author: Kurt Zamora | Spectre
 # Version: 3.0.0
 # Description: Advanced Docker-based pentesting lab management system
 # ============================================================================
